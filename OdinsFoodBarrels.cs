@@ -112,6 +112,10 @@ namespace OdinsFoodBarrels
                 "CarrotSeeds",
                 "OnionSeeds",
                 "TurnipSeeds",
+                "FirCone",
+                "PineCone",
+                "VineberrySeeds",
+                "AncientSeed",
             };
 
             // Set up restrictions for containers
