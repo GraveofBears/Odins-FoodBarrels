@@ -14,7 +14,7 @@ namespace OdinsFoodBarrels
     [BepInPlugin(HGUIDLower, ModName, ModVersion)]
     public class OdinsFoodBarrelsPlugin : BaseUnityPlugin
     {
-        public const string ModVersion = "1.0.25";
+        public const string ModVersion = "1.0.26";
         public const string ModName = "OdinsFoodBarrels";
         internal const string Author = "Gravebear";
         internal const string HGUID = Author + "." + "OdinsFoodBarrels";
@@ -99,6 +99,14 @@ namespace OdinsFoodBarrels
             CreateBuildPiece(assetBundle, "OH_RoyalJelly", "RoyalJelly", 10, true, BuildPieceCategory.Misc);
 
             CreateBuildPiece(assetBundle, "OH_Sap_Barrel", "Sap", 10, true, BuildPieceCategory.Misc);
+
+            CreateBuildPiece(assetBundle, "OH_Fiddlehead_Basket", "Fiddleheadfern", 10, true, BuildPieceCategory.Misc);
+
+            CreateBuildPiece(assetBundle, "OH_SmokePuffs_Basket", "MushroomSmokePuff", 10, true, BuildPieceCategory.Misc);
+
+            CreateBuildPiece(assetBundle, "OH_Vineberries", "Vineberry", 10, true, BuildPieceCategory.Misc);
+
+            CreateBuildPiece(assetBundle, "OH_Volture_Eggs", "VoltureEgg", 10, true, BuildPieceCategory.Misc);
 
             CreateBuildPiece(assetBundle, "OH_Seedbag", "DeerHide", 5, true, BuildPieceCategory.Misc);
 
