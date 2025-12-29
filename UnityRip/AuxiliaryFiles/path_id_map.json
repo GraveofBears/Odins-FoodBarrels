@@ -1,0 +1,619 @@
+{
+  "Files": [
+    {
+      "Name": "cab-6b8dd6552ce9b0057c0046bbff398f56",
+      "Assets": [
+        {
+          "PathID": -9100782080787762232,
+          "Name": "Smokepuff_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -8526801097660294772,
+          "Name": "swampplant2_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -8197525582656321616,
+          "Name": "ZSFX",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -7689795249420874127,
+          "Name": "fi_village_containers_hd",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7355376657496834321,
+          "Name": "OH_CloudBerries",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7047498324465142557,
+          "Name": "onion_ripe_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6853599388145112076,
+          "Name": "default_388",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -6518843423868543213,
+          "Name": "Boletus_edulis_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6242182753122859986,
+          "Name": "JellyOuter",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6046952228249754265,
+          "Name": "Sphere01",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -5942736320962169585,
+          "Name": "Container",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -5497244531605976740,
+          "Name": "waterinner",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -5431128851229080671,
+          "Name": "smokepuffs_e",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5072389162389406777,
+          "Name": "fi_village_containers_hd_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5055790100838648631,
+          "Name": "rawfish_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4556648663177332313,
+          "Name": "swampplant2_emissive",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4512269605182783360,
+          "Name": "newnewfood",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4119045530755887104,
+          "Name": "OdinsFoodBarrelDefault",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4073921413519135904,
+          "Name": "Boletus_edulis_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3964393987700268327,
+          "Name": "OH_Vineberries",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3728655186462055438,
+          "Name": "OH_Thistle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3685704725013295686,
+          "Name": "swampplant2_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3680896872402959311,
+          "Name": "OH_Blue_Mushrooms",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3657769254146640936,
+          "Name": "TimedDestruction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -3383401774541951801,
+          "Name": "Stump_tip_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3380653712024924897,
+          "Name": "voltureegg_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2920175025797331190,
+          "Name": "sap",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2806664795988762683,
+          "Name": "raspberry_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2640633939375742408,
+          "Name": "OH_Onions",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2605076687063921199,
+          "Name": "carrot_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2485025952339210543,
+          "Name": "Mesh_47",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2431143837072548966,
+          "Name": "cloudberry_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2379731102249870363,
+          "Name": "Fern01",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1817143917473216291,
+          "Name": "default_15",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1730020805759577453,
+          "Name": "default_253",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1716975326078713855,
+          "Name": "NormalMap(9)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1641302416764082312,
+          "Name": "Dandelion",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1516677033744139786,
+          "Name": "OH_Fiddlehead_Basket",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1483558241333816857,
+          "Name": "newnewfood 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1279399623007804152,
+          "Name": "ZNetView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -1219564758454098318,
+          "Name": "turnip_0",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1121977985155591859,
+          "Name": "Boletus_edulis_yellow_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1045643412253137807,
+          "Name": "Jelly_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -939523094774905524,
+          "Name": "OH_Barley",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -889220826436026918,
+          "Name": "default_315",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -710163731782363521,
+          "Name": "Boletus_edulis01",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -483096886309418725,
+          "Name": "OH_Dandelion",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -65738358866884243,
+          "Name": "Piece",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -19207634405479533,
+          "Name": "voltureegg_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -12184026542031052,
+          "Name": "Mesh_53",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1586974456907850,
+          "Name": "fi_vil_container_basket01_coffee_lid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 586211853364050403,
+          "Name": "OH_Egg_Basket",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 602587923796344442,
+          "Name": "blueberry",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 718512887608707825,
+          "Name": "default_141",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 779826569863758212,
+          "Name": "pinecone",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 824992754794833284,
+          "Name": "honey",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1025720827297519967,
+          "Name": "OH_Fish",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1158207480097139707,
+          "Name": "flax_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1271896614450768403,
+          "Name": "Jelly_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1308972016888717546,
+          "Name": "Mesh_72",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1442923696422242991,
+          "Name": "flax_ripe_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1848528855856639814,
+          "Name": "Vineberry_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1912157925008346435,
+          "Name": "raspberry_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1943611578423860920,
+          "Name": "OH_Seedbag",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2455240818092773668,
+          "Name": "OH_Red_Mushrooms",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2494940418627122646,
+          "Name": "OH_Flax",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2516815948610982462,
+          "Name": "turnip_0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2944597340465312014,
+          "Name": "odinsseedbag",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2995365054967629575,
+          "Name": "default_228",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3364118650778280159,
+          "Name": "Mesh_48",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3393166480681539501,
+          "Name": "NormalMap(10)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3443711465927806358,
+          "Name": "default_234",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3612643765736779200,
+          "Name": "default_232",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3649472990431787626,
+          "Name": "barley",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3657078165489907715,
+          "Name": "rawfish_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3716362585237310338,
+          "Name": "Ashlandsvegetation_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3731190837569805659,
+          "Name": "OH_RoyalJelly",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3891973283426517921,
+          "Name": "honey_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3894883875138185454,
+          "Name": "OH_Blueberries",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3897336487434889566,
+          "Name": "spark 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3904532533044581813,
+          "Name": "OH_Volture_Eggs",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3976328216189310048,
+          "Name": "turnip",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4033818322041052779,
+          "Name": "barley_item",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4042698650243930072,
+          "Name": "default_226",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4171416087885176451,
+          "Name": "Ashlandsvegetation_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4215278473637748556,
+          "Name": "UI_Build_Wood_Break_M_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4254589231811209295,
+          "Name": "OH_Magecap",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4255652714563071514,
+          "Name": "Mesh_46",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4335581284461211642,
+          "Name": "OH_SmokePuffs_Basket",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4499746904038494633,
+          "Name": "Turnip",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4837111360256384360,
+          "Name": "Vineberry_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4926951001942778200,
+          "Name": "OH_Raspberries",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5048671586625032239,
+          "Name": "Smokepuff_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5165502529775980768,
+          "Name": "OH_Magecap1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5250530787758472182,
+          "Name": "MistlandsShrooms_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5304211496701223317,
+          "Name": "wildfire01",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5895498790796380642,
+          "Name": "OH_Carrots",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6019382845861776391,
+          "Name": "WearNTear",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6109363621015650897,
+          "Name": "default_396",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6183929364381932072,
+          "Name": "carrotblast_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6218411150373752182,
+          "Name": "honey_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6706672723466574742,
+          "Name": "Obliterator_Hatch_Open_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6716394486318915075,
+          "Name": "raspberry",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6740425132972054020,
+          "Name": "fi_village_wood_hd_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6848966751011645801,
+          "Name": "default_224",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6865107756465955089,
+          "Name": "OH_Honey",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7179929875819383367,
+          "Name": "Dandelion02",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7569349151628387190,
+          "Name": "Mesh_34",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7772524495656120975,
+          "Name": "onion_ripe_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7994769523313395793,
+          "Name": "s4_thief_m_r",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8046041121655375356,
+          "Name": "fi_village_wood_hd",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8140722747344099685,
+          "Name": "Untitled-6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8294556610151207653,
+          "Name": "MistlandsShrooms_n",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8347485660387147936,
+          "Name": "Boletus_edulis_blue_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8495205226489255705,
+          "Name": "OH_Sap_Barrel",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8597778641639394774,
+          "Name": "carrotblast",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8677009020282729535,
+          "Name": "OH_Turnips",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8695015484982442864,
+          "Name": "OH_Yellow_Mushrooms",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8735601574667704745,
+          "Name": "ChickenEgg_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8866563056066754721,
+          "Name": "inside",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9010640188177091751,
+          "Name": "UI_Build_Wood_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 9141695659187144229,
+          "Name": "Untitled-2",
+          "Type": "Texture2D"
+        }
+      ]
+    }
+  ]
+}

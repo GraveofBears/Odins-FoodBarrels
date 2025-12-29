@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: swampplant2_item
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _EMISSION _NORMALMAP
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: d47793a7aed68824fb2c509275fce8c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: a118d4bf5e8d50842acbc2621df372db, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d65b8276168d4d5478c2d6adfc6ddd79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AddSnow: 0
+    - _BumpScale: 1
+    - _CamCull: 0
+    - _Cull: 0
+    - _Cutoff: 0.15
+    - _DetailNormalMapScale: 1
+    - _DistanceScale: 0
+    - _DstBlend: 0
+    - _FadeDistanceMax: 20
+    - _FadeDistanceMin: 15
+    - _GlossMapScale: 1
+    - _Glossiness: 0.4
+    - _GlossyReflections: 1
+    - _Height: 4
+    - _Metallic: 0
+    - _Mode: 0
+    - _MossAlpha: 0
+    - _MossBlend: 0
+    - _MossNormal: 0.5
+    - _MossTransition: 0.1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PushDistance: 0.6
+    - _RippleDeadzoneMax: 0
+    - _RippleDeadzoneMin: 0
+    - _RippleDistance: 0
+    - _RippleSpeed: 100
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SphereNormals: 0
+    - _SphereOffset: 0.56
+    - _SrcBlend: 1
+    - _SwayDistance: 0
+    - _SwaySpeed: 10
+    - _TwoSidedNormals: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0.859939, b: 0.8970588, a: 1}
+  m_BuildTextureStacks: []
