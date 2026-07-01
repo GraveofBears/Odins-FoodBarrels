@@ -16,7 +16,7 @@ namespace OdinsFoodBarrels
     // [BepInIncompatibility("shudnal.ExtraSlots")]
     public class OdinsFoodBarrelsPlugin : BaseUnityPlugin
     {
-        public const string ModVersion = "1.2.1";
+        public const string ModVersion = "1.2.3";
         public const string ModName = "OdinsFoodBarrels";
         internal const string Author = "Gravebear";
         internal const string HGUID = Author + "." + "OdinsFoodBarrels";
@@ -102,7 +102,11 @@ namespace OdinsFoodBarrels
 
             CreateBuildPiece(assetBundle, "OH_Flax", "Flax", 10, true, BuildPieceCategory.Custom);
 
+            CreateBuildPiece(assetBundle, "OH_Ooze_Barrel", "Ooze", 10, true, BuildPieceCategory.Custom);
+
             CreateBuildPiece(assetBundle, "OH_Onions", "Onion", 10, true, BuildPieceCategory.Custom);
+
+            CreateBuildPiece(assetBundle, "OH_Guck_Barrel", "Guck", 10, true, BuildPieceCategory.Custom);
 
             CreateBuildPiece(assetBundle, "OH_Egg_Basket", "ChickenEgg", 10, true, BuildPieceCategory.Custom);
 
