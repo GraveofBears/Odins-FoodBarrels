@@ -1,58 +1,86 @@
 OH_Raspberries: "Raspberry Barrel"
 OH_Raspberries_Description: "A barrel of Raspberries"
+
 OH_Blue_Mushrooms: "Blue Mushrooms Basket"
-OH_Blue_Mushrooms_Description: "A basket of BlueMushrooms"
+OH_Blue_Mushrooms_Description: "A basket of Blue Mushrooms"
+
 OH_Blueberries: "Blueberry Barrel"
-OH_Blueberries_Description: "A barrel of Blueberrys"
+OH_Blueberries_Description: "A barrel of Blueberries"
+
 OH_Carrots: "Carrot Barrel"
 OH_Carrots_Description: "A barrel of Carrots"
-OH_CloudBerries: "CloudBerry Barrel"
+
+OH_CloudBerries: "Cloudberry Barrel"
 OH_CloudBerries_Description: "A barrel of Cloudberries"
+
 OH_Fish: "Fish Barrel"
 OH_Fish_Description: "A barrel of Raw Fish"
+
 OH_Honey: "Honey Barrel"
 OH_Honey_Description: "A barrel of Honey"
+
 OH_Red_Mushrooms: "Red Mushroom Basket"
-OH_Red_Mushrooms_Description: "A Red Mushroom Basket"
+OH_Red_Mushrooms_Description: "A basket of Red Mushrooms"
+
 OH_Turnips: "Turnip Barrel"
 OH_Turnips_Description: "A barrel of Turnips"
-OH_Yellow_Mushrooms: "Yellow_Mushroom Basket"
-OH_Yellow_Mushrooms_Description: "A Yellow Mushroom Basket"
+
+OH_Yellow_Mushrooms: "Yellow Mushroom Basket"
+OH_Yellow_Mushrooms_Description: "A basket of Yellow Mushrooms"
+
 OH_Thistle: "Thistle Basket"
-OH_Thistle_Description: "A Thistle Basket"
+OH_Thistle_Description: "A basket of Thistle"
+
 OH_Dandelion: "Dandelion Basket"
-OH_Dandelion_Description: "A Dandelion Basket"
+OH_Dandelion_Description: "A basket of Dandelions"
+
 OH_Barley: "Barley Barrel"
 OH_Barley_Description: "A barrel of Barley"
+
 OH_Flax: "Flax Barrel"
 OH_Flax_Description: "A barrel of Flax"
+
 OH_Onions: "Onion Barrel"
 OH_Onions_Description: "A barrel of Onions"
+
 OH_Egg_Basket: "Egg Basket"
 OH_Egg_Basket_Description: "A basket of Eggs"
-OH_JotunPuffs_Basket: "JotunPuff Basket"
-OH_JotunPuffs_Basket_Description: "A basket of JotunPuffs"
+
+OH_JotunPuffs_Basket: "Jotunpuff Basket"
+OH_JotunPuffs_Basket_Description: "A basket of Jotunpuffs"
+
 OH_Magecap: "Magecap Basket"
 OH_Magecap_Description: "A basket of Magecap"
-OH_RoyalJelly: "RoyalJelly Barrel"
-OH_RoyalJelly_Description: "A barrel of RoyalJelly"
+
+OH_RoyalJelly: "Royal Jelly Barrel"
+OH_RoyalJelly_Description: "A barrel of Royal Jelly"
+
 OH_Sap_Barrel: "Sap Barrel"
 OH_Sap_Barrel_Description: "A barrel of Sap"
+
 OH_Fiddlehead_Basket: "Fiddlehead Basket"
 OH_Fiddlehead_Basket_Description: "A basket of Fiddleheads"
+
 OH_SmokePuffs_Basket: "Smoke Puff Basket"
 OH_SmokePuffs_Basket_Description: "A basket of Smoke Puffs"
+
 OH_Vineberries: "Vineberry Barrel"
 OH_Vineberries_Description: "A barrel of Vineberries"
+
 OH_Volture_Eggs: "Volture Egg Basket"
 OH_Volture_Eggs_Description: "A basket of Volture Eggs"
-OH_Bzerker_Mushrooms: "Toadstool Basket"
+
+OH_Bzerker_Mushrooms: "Bzerker Mushroom Basket"
 OH_Bzerker_Mushrooms_Description: "A basket of Bzerker Mushrooms"
-OH_Bukeberries: "Bukeperry Barrel"
-OH_Bukeberries_Description: "A barrel of bukeperries"
+
+OH_Bukeberries: "Bukeperries Barrel"
+OH_Bukeberries_Description: "A barrel of Bukeperries"
+
 OH_Guck_Barrel: "Guck Barrel"
-OH_Guck_Barrel_Description: "A barrel of Guck."
+OH_Guck_Barrel_Description: "A barrel of Guck"
+
 OH_Ooze_Barrel: "Ooze Barrel"
-OH_Ooze_Barrel_Description: "A barrel of Ooze."
-OH_Seedbag: "OdinsSeedBag"
-OH_Seedbag_Description: "A bag to put seeds in."
+OH_Ooze_Barrel_Description: "A barrel of Ooze"
+
+OH_Seedbag: "Odins Seed Bag"
+OH_Seedbag_Description: "A bag to put seeds in"

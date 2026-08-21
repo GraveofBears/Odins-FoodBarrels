@@ -16,7 +16,7 @@ namespace OdinsFoodBarrels
     // [BepInIncompatibility("shudnal.ExtraSlots")]
     public class OdinsFoodBarrelsPlugin : BaseUnityPlugin
     {
-        public const string ModVersion = "1.2.3";
+        public const string ModVersion = "1.2.4";
         public const string ModName = "OdinsFoodBarrels";
         internal const string Author = "Gravebear";
         internal const string HGUID = Author + "." + "OdinsFoodBarrels";
